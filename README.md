@@ -1,3 +1,4 @@
+This repository comprises RDT 3.0 implementation done with User Datagram Protocol.
 
 >gcc server.c functions.c -pthread -o server\
 >./server server-port-number<br/>
